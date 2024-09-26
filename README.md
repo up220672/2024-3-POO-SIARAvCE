@@ -1,4 +1,4 @@
-# Sistema de Gestión de Inventarios con Autenticación y Reportes Automáticos
+# Sistema de Inventario con Autenticación y Reportes de Actividad vía Correo Electrónico
 
 Este sistema de gestión de inventarios está diseñado para facilitar el manejo de productos, proporcionando autenticación segura mediante Active Directory (AD) y la automatización de reportes de inventario enviados por correo electrónico. Los usuarios podrán visualizar, agregar, modificar y eliminar elementos del inventario, además de recibir reportes periódicos sobre el estado del inventario.
 
