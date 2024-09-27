@@ -4,6 +4,8 @@ import 'package:frontend/theme/app_theme.dart';
 import 'package:provider/provider.dart';
 
 void main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+  
   // Crea el tema antes de ejecutar runApp()
   final themeNotifier = AppThemeNotifier();
   await themeNotifier.loadTheme();
