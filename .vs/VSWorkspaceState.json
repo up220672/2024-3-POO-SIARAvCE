@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "\\backend",
+    "\\backend\\bin",
+    "\\backend\\obj",
+    "\\backend\\obj\\Debug",
+    "\\backend\\obj\\Release",
+    "\\backend\\Properties",
+    "\\scripts"
+  ],
+  "PreviewInSolutionExplorer": false
+}
