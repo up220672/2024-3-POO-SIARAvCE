@@ -7,7 +7,8 @@ class HomeDesktop extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Sistema de Inventario con Autenticación y Reportes de Actividad vía Correo Electrónico'),
+        title: const Text(
+            'Sistema de Inventario con Autenticación y Reportes de Actividad vía Correo Electrónico'),
         centerTitle: true,
         backgroundColor: Colors.amberAccent,
       ),

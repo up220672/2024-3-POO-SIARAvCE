@@ -19,7 +19,10 @@ class HomeMobile extends StatelessWidget {
             Text(
               'Sistema de Inventario con Autenticación y Reportes de Actividad vía Correo Electrónico',
               textAlign: TextAlign.center,
-              style: TextStyle(fontSize: 20, fontWeight: FontWeight.w900, color: Colors.blueGrey),
+              style: TextStyle(
+                  fontSize: 20,
+                  fontWeight: FontWeight.w900,
+                  color: Colors.blueGrey),
             ),
             SizedBox(height: 30),
             Text("Integrantes del equipo:"),
@@ -28,7 +31,7 @@ class HomeMobile extends StatelessWidget {
             SizedBox(height: 10),
             Text("KEVIN JAVIER MEDINA HERNANDEZ"),
             SizedBox(height: 10),
-            Text("None"),
+            Text("Nico Emmanuel Quintanilla Navarro"),
             SizedBox(height: 10),
             Text("None"),
           ],
