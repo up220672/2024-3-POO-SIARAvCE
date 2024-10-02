@@ -22,7 +22,7 @@ class HomeDesktop extends StatelessWidget {
             SizedBox(height: 10),
             Text("KEVIN JAVIER MEDINA HERNANDEZ"),
             SizedBox(height: 10),
-            Text("None"),
+            Text("Nico Emmanuel Quintanilla Navarro"),
             SizedBox(height: 10),
             Text("None"),
           ],
