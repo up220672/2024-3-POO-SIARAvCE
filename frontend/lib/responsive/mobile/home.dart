@@ -33,7 +33,7 @@ class HomeMobile extends StatelessWidget {
             SizedBox(height: 10),
             Text("Nico Emmanuel Quintanilla Navarro"),
             SizedBox(height: 10),
-            Text("None"),
+            Text("Lenin Gerardo Silva Sabas"),
           ],
         ),
       ),
